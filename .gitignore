@@ -1,0 +1,7 @@
+# Go
+*.exe
+*.test
+*.out
+/server/bin/
+vendor/
+go.work
